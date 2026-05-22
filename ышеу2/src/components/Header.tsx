@@ -19,6 +19,9 @@ export default function Header() {
           <Link href="/early" className="text-sm text-zinc-300 hover:text-white">
             Future of TabAI
           </Link>
+          <Link href="/olympiad" className="text-sm text-zinc-300 hover:text-white flex items-center gap-1">
+            🏆 ВСОШ
+          </Link>
         </nav>
         <div className="flex items-center gap-3">
           <Link
